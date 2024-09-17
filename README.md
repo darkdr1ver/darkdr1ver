@@ -10,11 +10,10 @@ ________________________________________________________________________________
 ```mermaid
 mindmap
   root)Skills(
-    Languages
-      HTML(HTML)
-      CSS(CSS + SCSS)
-      JS(JS & React)
-      Java(Java)
-      Linux(Linux CLI)
-      Git(Git)
+    HTML(HTML)
+    CSS(CSS + SCSS)
+    JS(JS + React)
+    Java(Java)
+    Linux(Linux CLI)
+    Git(Git)
 ```
