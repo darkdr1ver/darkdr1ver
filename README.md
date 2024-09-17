@@ -14,9 +14,7 @@ mindmap
       HTML(HTML)
       CSS(CSS + SCSS)
       JS(JS & React)
-    
-    Other Tools
-      MD(Markdown & Mermaid)
+      Java(Java)
       Linux(Linux CLI)
       Git(Git)
 ```
