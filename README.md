@@ -1,6 +1,7 @@
+![CodeWars profile](https://www.codewars.com/users/matthewJull/badges/large)
+
 - 👋 Hi, I’m @matthewJull
-- 🌱 I’m currently learning frontend (React) & fullstack (nodeJS) development
-- 💞️ I’m looking to collaborate on interesting web-based projects
+- 🌱 I’m eager to learn programming and I look to collaborate on interesting projects!
 
 ### You can check my projects here:
 - https://matthewjull.github.io/odin-recipes
@@ -17,3 +18,4 @@ mindmap
     Linux(Linux CLI)
     Git(Git)
 ```
+
