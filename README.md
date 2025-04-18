@@ -1,6 +1,6 @@
 ![CodeWars profile](https://www.codewars.com/users/matthewJull/badges/large)
 
-- 👋 Hi, I’m @matthewJull, IT teacher and enthusiast.
+- 👋 Hi, I’m @matthewJull, an IT teacher/enthusiast.
 - 🌱 I’m eager to collaborate on interesting projects!
 
 ### You can check my projects here:
