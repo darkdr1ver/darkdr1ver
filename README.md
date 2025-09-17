@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile, I'm matthewJull  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br>
+<h1 align="center">Welcome to my profile!  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br>
 I am an InfoSec engineer and IT teacher 🌱 <br>
 Eager to collaborate on interesting projects!</h1>
 
