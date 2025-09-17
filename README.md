@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile!  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br>
-I am an InfoSec engineer<br>
+I am an InfoSec engineer and student. <br>
 Eager to collaborate on interesting projects!</h1>
 
 <div align="center">
