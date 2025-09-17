@@ -39,12 +39,12 @@ Eager to collaborate on interesting projects!</h1>
   <tr>
      <td>
       <a href="https://github.com/matthewJull/writeups">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthewJull&repo=writeups&title_color=4272f5&bg_color=171421&text_color=ffffff&icon_color=4272f5&border_color=4272f5&border_radius=20&line_height=25" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkdr1ver&repo=writeups&title_color=4272f5&bg_color=171421&text_color=ffffff&icon_color=4272f5&border_color=4272f5&border_radius=20&line_height=25" width="400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/matthewJull/odin-recipes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthewJull&repo=odin-recipes&title_color=4272f5&bg_color=171421&text_color=ffffff&icon_color=4272f5&border_color=4272f5&border_radius=20&line_height=25" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkdr1ver&repo=odin-recipes&title_color=4272f5&bg_color=171421&text_color=ffffff&icon_color=4272f5&border_color=4272f5&border_radius=20&line_height=25" width="400" />
       </a>
     </td>
   </tr>
