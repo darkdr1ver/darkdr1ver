@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile!  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br>
-I am an InfoSec engineer (Pre-Sale) and student (MEPhI). <br>
+I am an InfoSec engineer (Pre-Sales) and student (MEPhI). <br>
 Currently working on databases security. <br>
 Eager to collaborate on interesting projects!</h1>
 
