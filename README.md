@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br>
 I am an InfoSec engineer (Pre-Sales) and student (MEPhI). <br>
-Currently working on databases security and network security. <br>
-Eager to collaborate on interesting projects!</h1>
+Network security / DB security / Integrity control / Compliance. <br>
+A little bit of DevSecOps. Also learning applied data analysis.</h1>
 
 <div align="center">
 
@@ -16,6 +16,8 @@ Eager to collaborate on interesting projects!</h1>
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="20" height="20"> Tools :
 
 <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
@@ -33,22 +35,4 @@ Eager to collaborate on interesting projects!</h1>
 
 ![CodeWars profile](https://www.codewars.com/users/matthewJull/badges/large)
 
-<h3 align="center"><strong>📕 My repositories:</strong></h3>
-<div align="center">
-
-<table>
-  <tr>
-     <td>
-      <a href="https://github.com/darkdr1ver/writeups">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkdr1ver&repo=writeups&title_color=4272f5&bg_color=171421&text_color=ffffff&icon_color=4272f5&border_color=4272f5&border_radius=20&line_height=25" width="400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/darkdr1ver/odin-recipes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkdr1ver&repo=odin-recipes&title_color=4272f5&bg_color=171421&text_color=ffffff&icon_color=4272f5&border_color=4272f5&border_radius=20&line_height=25" width="400" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+<h3 align="center"><strong>📕 Feel free to check my repos!</strong></h3>
